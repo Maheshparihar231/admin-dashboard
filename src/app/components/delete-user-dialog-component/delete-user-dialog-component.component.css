@@ -1,0 +1,16 @@
+.Deletedialog{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+.warnbuttons{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.form-control{
+    padding: 10px;
+    width: 80%;
+}
